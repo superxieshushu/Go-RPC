@@ -1,1 +1,3 @@
-module "S-RPC"
+module S-RPC
+
+go 1.15
